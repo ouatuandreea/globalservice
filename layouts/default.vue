@@ -4,7 +4,7 @@
       <div class="container">
         <div class="navbar-brand">
           <router-link to="/" class="navbar-item is-size-3 logo has-text-dark">
-            The<b>Case</b> Company
+            <b>Global</b> Service
           </router-link>
         </div>
         <div class="navbar-menu is-active">

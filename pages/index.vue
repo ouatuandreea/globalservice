@@ -3,10 +3,10 @@
     <section class="hero is-medium" :style="{ backgroundImage: `url(${hero})` }">
       <div class="hero-body">
         <div class="container">
-          <h1 class="title"> Celebrate Uniquesness</h1>
+          <h1 class="title"> Choose your favorite</h1>
           <h2 class="is-size-3 has-text-weight-light">
-            Beautiful mobile covers that <br>
-            reflects your personality.
+            Shooping from your home <br>
+            Spend time with family, not in shops.
           </h2>
         </div>
       </div>
@@ -45,7 +45,7 @@ export default {
   },
   data () {
     return {
-      types: ['painted', 'pattern', 'gradient'],
+      types: ['Phone-cover', 'Phone-accesories', 'Phones'],
       selectedTypes: [],
       hero: this.$store.state.globals[0].metadata.hero.imgix_url
     }
