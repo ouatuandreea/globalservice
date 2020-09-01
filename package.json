@@ -17,7 +17,7 @@
     "@nuxtjs/axios": "^5.0.0",
     "babel-eslint": "^8.2.1",
     "body-parser": "^1.18.2",
-    "buefy": "^0.6.3",
+    "buefy": "^0.7.2",
     "cosmicjs": "^3.0.9",
     "cross-env": "^5.0.1",
     "dotenv": "^5.0.0",
